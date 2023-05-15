@@ -548,7 +548,16 @@ section#Welcome_about p {
   line-height: 1.67;
   color: #6F6B80;
 }
-
+section#Welcome_about h2:before{
+  content: "";
+  position: absolute;
+  background: url(img/shape-02-2.png);
+  width: 200px;
+  height: 100%;
+  left: 27%;
+  top: -44%;
+  background-repeat: no-repeat;
+}
 section#About_misson {
   background: url(img/home-one-testimonial-2.jpg);
   background-size: cover;
