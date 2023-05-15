@@ -615,9 +615,25 @@ section#What_Do p{
     line-height: 1.67;
     color: #6F6B80;
   }
+  .value {
+    background: #ffffff;
+    height: 100%;
+    padding: 30px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px;
+    border-radius: 30px;
+    margin-top: 30px;
+}
+.value ul li {
+  font-size: 20px;
+  font-weight: 400;
+  font-family: roboto;
+  line-height: 1.67;
+  color: #6F6B80;
+}
  /* -------------------------------------
                ABOUT US PAGE
  --------------------------------------*/
+
 
 
 
