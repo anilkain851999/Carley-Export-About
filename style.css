@@ -595,6 +595,26 @@ section#About_misson ul.value_li li {
 ul.value_li {
   padding-left: 21px;
 }
+section#What_Do {
+  padding-bottom: 70px;
+}
+section#Who_are {
+padding: 100px 0;
+}
+section#Who_are p{
+font-size: 20px;
+  font-weight: 400;
+  font-family: roboto;
+  line-height: 1.67;
+  color: #6F6B80;
+}
+section#What_Do p{
+  font-size: 20px;
+    font-weight: 400;
+    font-family: roboto;
+    line-height: 1.67;
+    color: #6F6B80;
+  }
  /* -------------------------------------
                ABOUT US PAGE
  --------------------------------------*/
